@@ -106,7 +106,7 @@ header {
     }   
 }
 
-@media (min-width: 769px) {
+@media (min-width: 700px) {
     header {
         .navbar {
             .btn-mobile {
@@ -138,7 +138,7 @@ header {
         padding-top: clamp(0px, 5vw, 32px);
 
         .home-image {
-            width: clamp(300px, 50%, 400px);
+            width: clamp(200px, 50%, 300px);
         }
 
         .home-title {
